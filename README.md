@@ -20,32 +20,3 @@
 [![](https://visitcount.itsvg.in/api?id=vgoutham786&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Hi there , I'm Akshaykumar Purad
-
-
-A Full Stack Developer in the process.
-     akshaykumar24
-
-🌱 I’m currently learning Full Stack Web Development
-
-💬 Ask me about something that goes with JS
-
-📫 How to reach me akshaykumarpurad99@gmail.com
-
-⚡ Fun fact World is Ending soon, So better commit your code before you....
-
-Connect with me:
-akshaykumarpurad akshaykumarpurad/twitter
-
-Languages and Tools:
-javascript react express redux
-
-html5 css3 nodejs mongodb postman
-
-bootstrap cypress jest csharp postgresql
-
-
-streak
-
-Akshaykumar24's Github Stats
-
