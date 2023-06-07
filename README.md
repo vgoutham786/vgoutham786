@@ -12,8 +12,9 @@
 - 📫 How to reach me **vgoutham786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" display="flex">
 <a href="https://linkedin.com/in/goutham-devreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goutham-devreddy" height="30" width="40" /></a>
+<a href="https://vgoutham786.github.io/" target="blank"><img align="center" src="https://i.ibb.co/1dFK45n/Cream-White-Aesthetic-Beauty-Vlogger-Initials-Logo.png" alt="goutham-devreddy" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
